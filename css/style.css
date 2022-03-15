@@ -339,7 +339,7 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../images/cli.jpg);
      background-repeat: no-repeat;
      min-height: 800px;
      display: flex;
