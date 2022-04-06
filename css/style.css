@@ -339,7 +339,7 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/cli.jpg);
+     background: url(../images/doctora_fe.jpg);
      background-repeat: no-repeat;
      min-height: 800px;
      display: flex;
@@ -482,7 +482,7 @@ button {
 /** discount section **/
 
 .discount {
-     background: url(../images/disco.jpg);
+     background: url(../images/doctora_fe.jpg);
      background-repeat: no-repeat;
      height: 700px;
      background-size: 100% 100%;
